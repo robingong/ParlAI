@@ -1,3 +1,6 @@
+
+Blender Bot 2.0：具有长程记忆和互联网搜索能力的开源聊天机器人
+
 <p align="center">
  <img width="70%" src="docs/source/\_static/img/parlai.png" />
 </p>
